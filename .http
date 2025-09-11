@@ -1,0 +1,3 @@
+GET https://api.pokemontcg.io/v2/sets
+X-Api-Key: c7349c5c-1c42-4aa9-ae68-c097b969727e
+Content-Type: application/json
