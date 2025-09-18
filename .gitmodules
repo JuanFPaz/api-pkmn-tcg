@@ -1,0 +1,3 @@
+[submodule "front-pkmn-tcg"]
+	path = front-pkmn-tcg
+	url = https://github.com/JuanFPaz/front-pkmn-tcg.git
